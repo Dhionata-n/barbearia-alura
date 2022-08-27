@@ -274,6 +274,9 @@ text-align: center;
  .lista-beneficios, .imagemBeneficios{
     width: 100%;
  }
+ .produtos{
+    width: 100%;
+ }
 .produtos li{
     
     text-align: center;
